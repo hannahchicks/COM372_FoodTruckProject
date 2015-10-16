@@ -1,0 +1,194 @@
+
+#title{
+  margin-left: 40%;
+  margin-right: 40%;
+  font-size: 50px;
+  padding-bottom: 5px;
+  font-family: 'Amatic SC', cursive;
+}
+
+#space{
+  padding: 15px;
+}
+
+#list li{
+  font color: green;
+  width: auto;
+  display: inline;
+  font-size: 15px;
+  border: green dashed 2px;
+  margin-left: 7%;
+  margin-right: 7%;
+  font-weight: bold;
+  font-family: 'Slabo 27px', serif;
+  background-color: lightgreen;
+}
+
+#info {
+  background-color: lightgreen;
+  padding: 25px;
+  border: 2px dashed green;
+  width: 50%;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Slabo 27px', serif;
+
+}
+
+#goodfood{
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 25px;
+  padding-bottom: 5px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#hummus figure{
+  float: left;
+}
+
+#falafel{
+  float: right;
+  padding-right: 30px;
+}
+
+#title2{
+  padding-left: 25px;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 15px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#menu_title{
+  padding-left: 25px;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-size: 15px;
+  font-family: 'Slabo 27px', serif;
+}
+#menu{
+  border: 2px green dashed;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#appetizers{
+  border: 2px lightgreen solid;
+  padding-left: 5px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#soups{
+  border: 2px lightgreen solid;
+  padding-left: 5px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#sandwiches{
+  border: 2px lightgreen solid;
+  padding-left: 5px;
+  font-family: 'Slabo 27px', serif;
+
+}
+
+#beansnrice{
+  border: 2px lightgreen solid;
+  padding-left: 5px;
+  font-family: 'Slabo 27px', serif;
+}
+
+
+#ourstory{
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 17px;
+  padding-bottom: 5px;
+  background-color: lightgreen;
+  padding: 25px;
+  border: 2px dashed green;
+  width: 50%;
+  font-family: 'Slabo 27px', serif;
+}
+
+#events_title{
+  padding-left: 25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  font-size: 15px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#events{
+  border: 2px green dashed;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#WMOF{
+  border-left: 2px lightgreen solid;
+  padding-left: 5px;
+  margin-right: 25px;
+  font-family: 'Slabo 27px', serif
+}
+
+#MFTF{
+  border-left: 2px lightgreen solid;
+  margin-right: 25px;
+  padding-left: 5px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#GFTW{
+  border-left: 2px lightgreen solid;
+  margin-right: 25px;
+  padding-left: 5px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#WMOF{
+  border-left: 2px lightgreen solid;
+  padding-left: 5px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#FPTM{
+  border-left: 2px lightgreen solid;
+  padding-left: 5px;
+  margin-right: 25px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#CBFTN{
+  border-left: 2px lightgreen solid;
+  padding-left: 5px;
+  margin-right: 25px;
+  font-family: 'Slabo 27px', serif;
+}
+
+#SFTH{
+  border-left: 2px lightgreen solid;
+  padding-left: 5px;
+  margin-right: 25px;
+  border-right: 2px lightgreen solid;
+  font-family: 'Slabo 27px', serif;
+}
+
+#space2{
+  padding: 5px;
+}
+
+#eventlist li{
+  list-style: none;
+  font-family: 'Slabo 27px', serif;
+}
+
+#space3{
+  padding: 8px;
+}
